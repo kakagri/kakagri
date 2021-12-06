@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kakagri/kakagri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<h1> Hey I'm Khaled ! </h1>
+<h1>Hi there 👋 I'm Khaled ! </h1>
 </p>
 
  I'm currently finishing my master's degree, I study mathematics finance and computer science.
