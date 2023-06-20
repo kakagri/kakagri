@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <h1>Hi there 👋 I'm Khaled, I do things </h1>
-Working hard at AAVE, always open to discuss defi and math stuff, you can reach out on telegram: @khaledgrira or on twitter: @iamkakagri.
+Always open to discuss defi and math stuff, you can reach out on telegram: @khaledgrira or on twitter: @iamkakagri.
+[Click here for my personal website](https://www.khaledgrira.com)
+Previously: Quant @ Aave, Smart contracts @ Human Divergence, Quant dev @ DV Trading
 </p>
