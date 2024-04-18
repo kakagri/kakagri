@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <h1>Hi there 👋 I'm Khaled, I do things </h1>
-Always open to discuss defi and math stuff, you can reach out on telegram: @khaledgrira or on twitter: @iamkakagri.
+Always open to discuss defi and math stuff, you can reach out on twitter: @iamkakagri.
 
 
 [Personal website](https://www.khaledgrira.com)
 
-Previously: Quant @ Aave, Smart contracts @ Human Divergence, Quant dev @ DV Trading
+Currently: [Allez Labs](https://allez.xyz) Previously: Senior Analyst @ Block Analitica,  Quant @ Aave, Smart contracts @ Human Divergence, Quant dev @ DV Trading
 </p>
