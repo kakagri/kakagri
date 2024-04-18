@@ -24,7 +24,9 @@ Always open to discuss defi and math stuff, you can reach out on twitter: @iamka
 [Personal website](https://www.khaledgrira.com)
 
 Currently: 
-- [Allez Labs](https://allez.xyz) 
+- [Allez Labs](https://allez.xyz)
+
+
 Previously:
 - Senior Analyst @ Block Analitica
 - Quantitative research @ Aave
