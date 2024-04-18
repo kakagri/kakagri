@@ -23,5 +23,11 @@ Always open to discuss defi and math stuff, you can reach out on twitter: @iamka
 
 [Personal website](https://www.khaledgrira.com)
 
-Currently: [Allez Labs](https://allez.xyz) Previously: Senior Analyst @ Block Analitica,  Quant @ Aave, Smart contracts @ Human Divergence, Quant dev @ DV Trading
+Currently: 
+- [Allez Labs](https://allez.xyz) 
+Previously:
+- Senior Analyst @ Block Analitica
+- Quantitative research @ Aave
+- Smart contracts @ Human Divergence
+- Quantitative developer @ DV Trading
 </p>
