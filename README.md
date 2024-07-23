@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-<h1>Hi there 👋 I'm Khaled, I do things </h1>
 Always open to discuss defi and math stuff, you can reach out on twitter: @iamkakagri.
 
 
